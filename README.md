@@ -35,10 +35,19 @@ THEN the password is either displayed in an alert or written to the page
 
 ```
 
-## Technology
+## ASSETS
+
+The following GIF Image demonstrates the web application's default appearance and functionality
+![Web Application shows random password generator with copy to clipboard funtion ".](./assets/images/Kirti%20Shelar%20-%20Professional%20Portfolio.gif)
+
+## TECHNOLOGY
 
 HTML, CSS and JavaScript
 
-## Website
+## WEBSITE
 
-URL of Deployed Application - 
+URL of Deployed Application -
+
+## CONTRIBUTION
+
+Made with ❤️ by Kirti Shelar
